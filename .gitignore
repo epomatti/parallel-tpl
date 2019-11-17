@@ -5,6 +5,7 @@
 
 .vscode/
 car_monochrome.jpeg
+output/
 
 # User-specific files
 *.suo
