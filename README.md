@@ -1,5 +1,7 @@
 # Parallel TPL
 
+![workflow](https://github.com/epomatti/parallel-tpl/actions/workflows/dotnet.yml/badge.svg)
+
 Parallel computation across CPU cores using .NET Core and TPL.
 
 This image is partitioned in according the available CPUs for parallel work.
